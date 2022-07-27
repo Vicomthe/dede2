@@ -1,0 +1,6 @@
+package com.example.dede2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
